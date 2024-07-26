@@ -1335,6 +1335,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 7397602420422953816, guid: 4d6eb043b515a274ba6a5002d636eebe, type: 3}
     - target: {fileID: 8943318966241501346, guid: 684467cdfa8457e458c44b7ce34abe17, type: 3}
+      propertyPath: initialSections.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943318966241501346, guid: 684467cdfa8457e458c44b7ce34abe17, type: 3}
+      propertyPath: initialSections.Array.data[0].section
+      value: 
+      objectReference: {fileID: 11400000, guid: e3fd7b92ae1db8b47902beca5427ebd2, type: 2}
+    - target: {fileID: 8943318966241501346, guid: 684467cdfa8457e458c44b7ce34abe17, type: 3}
       propertyPath: potentialSections.Array.data[22].weight
       value: 100
       objectReference: {fileID: 0}
